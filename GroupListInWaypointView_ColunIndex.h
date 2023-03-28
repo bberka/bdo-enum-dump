@@ -1,0 +1,5 @@
+enum GroupListInWaypointView_ColunIndex
+{
+	WaypointInGroupListView_ColunIndex_WaypointKey,
+	WaypointInGroupListView_ColunIndex_WaypointName,
+};

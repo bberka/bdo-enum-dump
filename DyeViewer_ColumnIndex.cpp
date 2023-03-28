@@ -1,0 +1,17 @@
+enum DyeViewer_ColumnIndex
+{
+	DyeViewer_ColumnIndex_CombiName,
+	DyeViewer_ColumnIndex_PartName,
+	DyeViewer_ColumnIndex_MeshFilePath,
+	DyeViewer_ColumnIndex_RSlot,
+	DyeViewer_ColumnIndex_GSlot,
+	DyeViewer_ColumnIndex_BSlot,
+	DyeViewer_ColumnIndex_RIsHairType,
+	DyeViewer_ColumnIndex_GIsHairType,
+	DyeViewer_ColumnIndex_BIsHairType,
+	DyeViewer_ColumnIndex_RColorScale,
+	DyeViewer_ColumnIndex_GColorScale,
+	DyeViewer_ColumnIndex_BColorScale,
+	DyeViewer_ColumnIndex_Max,
+
+};

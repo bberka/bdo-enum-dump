@@ -1,0 +1,9 @@
+enum WaypointListView_ColumnIndex
+{
+	WaypointListView_ColumnIndex_WaypointKey,
+	WaypointListView_ColumnIndex_WaypointName,
+	WaypointListView_ColumnIndex_WaypointPosition,
+	WaypointListView_ColumnIndex_WaypointNaviType,
+	WaypointListView_ColumnIndex_PositionNaviType,
+	WaypointListView_ColumnIndex_IsSubWaypoint,
+};

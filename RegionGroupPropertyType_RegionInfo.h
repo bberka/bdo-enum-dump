@@ -1,0 +1,15 @@
+enum RegionGroupPropertyType_RegionInfo
+{
+	RegionGroupPropertyType_RegionInfo_WeatherTable = 0,
+	RegionGroupPropertyType_RegionInfo_WeatherTime,
+	RegionGroupPropertyType_RegionInfo_Reserved2,
+	RegionGroupPropertyType_RegionInfo_Reserved3,
+	RegionGroupPropertyType_RegionInfo_Reserved4,
+	RegionGroupPropertyType_RegionInfo_Reserved5,
+	RegionGroupPropertyType_RegionInfo_Reserved6,
+	RegionGroupPropertyType_RegionInfo_Reserved7,
+	RegionGroupPropertyType_RegionInfo_Reserved8,
+	RegionGroupPropertyType_RegionInfo_Reserved9,
+
+	//RegionGroupPropertyType_Count = 10,
+};

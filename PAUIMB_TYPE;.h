@@ -1,0 +1,9 @@
+enum PAUIMB_TYPE;
+enum PAUIMB_RETURN_TYPE;
+
+enum PAUI_SHOW_FADE_TYPE : byte
+{
+	PAUI_ANI_TYPE_NONE = 0,		// �ƹ��� ó���� ���� �ʴ´�.
+	PAUI_ANI_TYPE_FADE_IN,
+	PAUI_ANI_TYPE_FADE_OUT,
+};

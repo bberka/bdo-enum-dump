@@ -1,0 +1,26 @@
+enum ECharacterThreadLoaderTaskType
+{
+	eCTLTT_load_bone = 0,
+	eCTLTT_load_mesh,
+	eCTLTT_load_primitive,
+	eCTLTT_load_animation,
+	eCTLTT_load_animation_data,
+	eCTLTT_unload_mesh,
+	eCTLTT_unload_character,
+	eCTLTT_unload_character_delayed,
+	eCTLTT_cut_meshes,
+	eCTLTT_apply_customizing_decoration,
+	eCTLTT_apply_customizing_bone,
+
+	eCTLTT_complete_load_bone,
+	eCTLTT_complete_load_mesh,
+	eCTLTT_complete_load_primitive,
+	eCTLTT_complete_load_animation,
+	eCTLTT_complete_load_animation_data,
+	eCTLTT_complete_unload_mesh,
+	eCTLTT_complete_unload_character,
+	eCTLTT_complete_cut_meshes,
+	eCTLTT_complete_apply_customizing_decoration,
+	eCTLTT_complete_apply_customizing_bone,
+	eCTLTT_count,
+};

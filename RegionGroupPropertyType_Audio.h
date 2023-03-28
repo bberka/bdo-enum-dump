@@ -1,0 +1,15 @@
+enum RegionGroupPropertyType_Audio
+{
+	RegionGroupPropertyType_Audio_IndoorType = 0,
+	RegionGroupPropertyType_Audio_ReverbPresetIndex,
+	RegionGroupPropertyType_Audio_MusicStatePresetIndex,
+	RegionGroupPropertyType_Audio_MusicVolumeOff,
+	RegionGroupPropertyType_Audio_EnvironmentBankNoBack,
+	RegionGroupPropertyType_Audio_Priority,
+	RegionGroupPropertyType_Audio_Reserved1,
+	RegionGroupPropertyType_Audio_Reserved2,
+	RegionGroupPropertyType_Audio_Reserved3,
+	RegionGroupPropertyType_Audio_Reserved4,
+
+	//RegionGroupPropertyType_Count = 10,
+};

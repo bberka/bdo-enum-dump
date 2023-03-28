@@ -1,0 +1,15 @@
+enum RegionGroupPropertyType_NavWaterInfo
+{
+	RegionGroupPropertyType_NavWaterInfo_IsSeaEraser = 0,
+	RegionGroupPropertyType_NavWaterInfo_IsWaterAdder,
+	RegionGroupPropertyType_NavWaterInfo_Reserved1,
+	RegionGroupPropertyType_NavWaterInfo_Reserved2,
+	RegionGroupPropertyType_NavWaterInfo_Reserved3,
+	RegionGroupPropertyType_NavWaterInfo_Reserved4,
+	RegionGroupPropertyType_NavWaterInfo_Reserved5,
+	RegionGroupPropertyType_NavWaterInfo_Reserved6,
+	RegionGroupPropertyType_NavWaterInfo_Reserved7,
+	RegionGroupPropertyType_NavWaterInfo_Reserved8,
+
+	//RegionGroupPropertyType_Count = 10,
+};

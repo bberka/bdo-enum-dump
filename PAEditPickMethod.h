@@ -1,0 +1,6 @@
+enum PAEditPickMethod
+{
+	PAEPM_NOTLIST,	
+	PAEPM_ALREDYLIST,	
+	PAEPM_ALL
+};

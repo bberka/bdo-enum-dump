@@ -1,0 +1,7 @@
+enum PAEffectRenderEdit
+{
+	ERE_NORMAL = 0,
+	ERE_OVERDRAW,
+	ERE_WIREFRAME,
+	ERE_WIREONLY
+};

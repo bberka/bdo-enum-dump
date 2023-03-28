@@ -1,0 +1,25 @@
+enum MenuItemId
+{		
+	MenuItem_CharacterSearch= 0,
+	MenuItem_ItemSearch,
+	MenuItem_GuildSearch,
+	MenuItem_Authority,
+	MenuItem_TicketSearch,
+	MenuItem_LogSearch,
+	MenuItem_LogReason,
+	MenuItem_Control,
+	MenuItem_Mail,
+	MenuItem_BlockItemKey,
+	MenuItem_Monitoring,
+	MenuItem_ServerList,
+	MenuItem_ServerNotice,
+	MenuItem_ChatMonitoring,
+	MenuItem_ShutDownServer,
+	MenuItem_Test,
+	MenuItem_SpawnProhibition,
+	MenuItem_ItemDontDrop,
+	MenuItem_ItemMarketFrame,
+	MenuItem_ChangeItemGroupFrame,
+	MenuItem_SiegeCommand,
+	MenuItem_Count	
+};

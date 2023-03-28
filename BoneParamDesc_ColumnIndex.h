@@ -1,0 +1,21 @@
+enum BoneParamDesc_ColumnIndex
+{
+	BoneParamDesc_ColumnIndex_Index,
+	BoneParamDesc_ColumnIndex_PartName,
+	BoneParamDesc_ColumnIndex_BoneName,
+	BoneParamDesc_ColumnIndex_Component,
+	BoneParamDesc_ColumnIndex_MinX,
+	BoneParamDesc_ColumnIndex_MinY,
+	BoneParamDesc_ColumnIndex_MinZ,
+	BoneParamDesc_ColumnIndex_MaxX,
+	BoneParamDesc_ColumnIndex_MaxY,
+	BoneParamDesc_ColumnIndex_MaxZ,	
+	BoneParamDesc_ColumnIndex_DefaultX,
+	BoneParamDesc_ColumnIndex_DefaultY,
+	BoneParamDesc_ColumnIndex_DefaultZ,	
+	BoneParamDesc_ColumnIndex_BoneHeightAxis,
+	BoneParamDesc_ColumnIndex_BoneWeightAxis01,
+	BoneParamDesc_ColumnIndex_BoneWeightAxis02,
+	BoneParamDesc_ColumnIndex_BoneWeightAxis03,
+	
+};

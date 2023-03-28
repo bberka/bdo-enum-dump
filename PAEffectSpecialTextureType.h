@@ -1,0 +1,8 @@
+enum PAEffectSpecialTextureType
+{
+	ESTT_NONE = 0,
+	ESTT_EMISSIVE,
+	ESTT_UVDISTORTION,
+	ESTT_ENV,
+	ESTT_MAX,
+};

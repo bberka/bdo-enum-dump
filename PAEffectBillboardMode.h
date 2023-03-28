@@ -1,0 +1,10 @@
+enum PAEffectBillboardMode
+{
+	EBM_SCREEN_ALIGNED = 0,
+	EBM_VELOCITY_ALIGNED,
+	EBM_STATIC_AXIS_ALIGNED,
+	EBM_NORMALIZE_VELOCITY_ALIGNED,
+	EBM_VELOCITY_CAPSULE_ALIGNED,
+	EBM_MAX,
+	EBM_NULL = -1,
+};	// �߰��ϸ� �Ʒ� getEffectBillboardModeConst���� �߰� �������.

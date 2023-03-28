@@ -1,0 +1,8 @@
+enum PAJobAssignValue
+{
+	JAV_PCSCRIPT,
+	JAV_NPCSCRIPT,
+	JAV_SERVER,
+	JAV_END,
+	JAV_MAX,
+};

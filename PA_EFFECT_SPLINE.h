@@ -1,0 +1,6 @@
+enum PA_EFFECT_SPLINE
+{
+	ES_LINEAR = 0,
+	ES_SMOOTH,
+	ES_BEZIER,
+};

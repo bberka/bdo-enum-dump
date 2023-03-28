@@ -1,0 +1,6 @@
+enum PA_TOUCH_MODE
+{
+	MODE_TOUCH,
+	MODE_GESTURE,
+	MODE_NONE,
+};

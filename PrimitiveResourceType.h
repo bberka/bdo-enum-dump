@@ -1,0 +1,15 @@
+enum PrimitiveResourceType
+{
+	PRT_CHARACTER,
+	PRT_OBJECT,
+	PRT_TERRAIN,
+	PRT_EFFECT,
+	PRT_TREE,
+	PRT_TREE_BILLBOARD,
+	PRT_GRASS,
+	PRT_UI,
+	PRT_Worldmap,
+	PRT_ETC,
+	PRT_OBJECT_LOD,
+	PRT_Count,
+};

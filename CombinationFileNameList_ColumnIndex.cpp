@@ -1,0 +1,5 @@
+enum CombinationFileNameList_ColumnIndex
+{
+	CombinationFileNameList_ColumnIndex_MainPart,
+	CombinationFileNameList_ColumnIndex_FileName,
+};

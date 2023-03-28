@@ -1,0 +1,5 @@
+enum PA_UI_SLIDE_TYPE
+{
+	PA_UI_SLIDE_IN,
+	PA_UI_SLIDE_OUT
+};
